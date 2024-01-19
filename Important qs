@@ -1,0 +1,23 @@
+Important qs
+
+Html is structure
+css is beautification
+javascript is functionality
+
+3 types of css
+internal
+external
+inline
+
+block element
+<div> covers (for eg. colors) whole block of page
+inline element
+<span> covers (for eg. colors) as per content in page
+
+<meta> provides information <head> defines information regarding the pages
+
+elements- every <tag> in between structure of html page
+element selector is used for css if there is <h1> tag then h1 is element selector
+
+ID uses # for css  It is unique id It is define for one tags
+CLASS uses . for css it is define for more than one tags
