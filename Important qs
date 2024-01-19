@@ -21,3 +21,12 @@ element selector is used for css if there is <h1> tag then h1 is element selecto
 
 ID uses # for css  It is unique id It is define for one tags
 CLASS uses . for css it is define for more than one tags
+
+difference between visibility-hidden and display-none
+
+viewport - in which device page is viewed
+
+
+position
+
+relative
